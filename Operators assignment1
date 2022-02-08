@@ -1,0 +1,13 @@
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+c=a>b
+d=a<b
+e=a>=b
+f=a<=b
+g=a==b
+h=a!=b
+Print(c,d,e,f,g,h)
+
+Output:a=20
+b=50
+False true false true
